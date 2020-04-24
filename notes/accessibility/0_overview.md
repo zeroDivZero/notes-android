@@ -2,7 +2,7 @@
 
 App -> (info & allowed actions) -> A11y framework (`AccessibilityNodeInfo`, `AccessibilityEvent`, `contentDescription`, `get/setStateDescription()`, etc.) -> (generic representation of info & allowed actions) -> `AccessibilityService` (app or util such as **TalkBack** that presents in way to fit user's a11y needs)
 
-Depended by often UI testing frameworks, such as Android's own **UI Automator**.
+Often depended by UI testing frameworks, such as Android's own **UI Automator**.
 
 A11y draws in window on top of all windows. Can replace parts of UI with custom ones, at perf cost.
 
