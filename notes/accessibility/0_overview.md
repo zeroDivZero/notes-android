@@ -29,7 +29,7 @@ A11y service (enable via a11y setting) to let external switch or keyboard hardwa
 
 Easy to neglect or implement incorrectly. Most devs don't have intuition or experience about user's a11y needs. Use modern framework like **Compose** to get built-in a11y support, and instead of building UI components from scratch, use **Material Design Components**.
 
-Allocate resource to support from beginning. More work to retrofit later.
+Dedicate resource to support from beginning. More work to retrofit later.
 
 ## Testing
 
