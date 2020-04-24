@@ -17,7 +17,7 @@ App that scans my app's screen and provides suggestions to improve a11y, based o
 * Clickable items
 * Text and image contrast
 
-Automated, but no guarantees on app's a11y and no replacement for manual testing.
+Automated, but no replacement for manual testing.
 
 ## Switch Access
 
