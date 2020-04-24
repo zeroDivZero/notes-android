@@ -27,7 +27,7 @@ Automated, but no replacement for manual testing.
 
 ## Best Practice
 
-Easy to neglect or implement incorrectly. Most devs don't have intuition or experience about user's a11y needs. Use modern framework like **Compose** to get built-in a11y support, and rather than build UI components from scratch, use **Material Design Components**.
+Easy to neglect or implement incorrectly. Most devs don't have intuition or experience about user's a11y needs. Use modern framework like **Compose** to get built-in a11y support, and instead of building UI components from scratch, use **Material Design Components**.
 
 Allocate resource to support from beginning. More work to retrofit later.
 
