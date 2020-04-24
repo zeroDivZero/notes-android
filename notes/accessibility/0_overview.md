@@ -1,6 +1,6 @@
 # OVERVIEW
 
-App -> (info & allowed actions) -> A11y framework (`AccessibilityNodeInfo`, `AccessibilityEvent`, `contentDescription`, `get/setStateDescription()`, etc.) -> (generic representation of info & allowed actions) -> `AccessibilityService` (app such as **TalkBack** that presents in way to fit user's a11y needs)
+App -> (info & allowed actions) -> A11y framework (`AccessibilityNodeInfo`, `AccessibilityEvent`, `contentDescription`, `get/setStateDescription()`, etc.) -> (generic representation of info & allowed actions) -> `AccessibilityService` (app or util such as **TalkBack** that presents in way to fit user's a11y needs)
 
 Dependended by often UI testing frameworks, such as Android's own **UI Automator**.
 
