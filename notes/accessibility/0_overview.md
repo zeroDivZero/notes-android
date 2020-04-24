@@ -23,7 +23,7 @@ Automated, but no replacement for manual testing.
 
 [https://support.google.com/accessibility/android/answer/6122836?hl=en](https://support.google.com/accessibility/android/answer/6122836?hl=en)
 
-`AccessibilityService` (enable via a11y setting) to let external switch or keyboard hardware interact with Android device without touchscreen.
+A11y service (enable via a11y setting) to let external switch or keyboard hardware interact with Android device without touchscreen.
 
 ## Best Practice
 
