@@ -35,7 +35,7 @@ Dedicate resource to support from beginning. More work to retrofit later.
 
 3 types of unit tests cover most issues.
 
-### 1. Make sure info correctly presented to A11y service.
+### 1. Make sure info correctly presented to a11y service.
 
 Make sure `AccessibilityNodeInfo` correctly populated.
 
